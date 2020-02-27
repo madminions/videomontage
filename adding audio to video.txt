@@ -1,0 +1,1 @@
+ffmpeg -i output.avi -i music.mp3 -c copy -shortest out.mp4
